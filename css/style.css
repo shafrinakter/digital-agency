@@ -271,7 +271,7 @@ footer{
     background-repeat: no-repeat;
     background-blend-mode: overlay;
     width: 100%;
-    height: 70vh;
+    height: 80vh;
     padding: 30px;
     color: white;
     
@@ -324,4 +324,8 @@ hr{
 }
 .footer-copy{
     margin-top: 30px;
+}
+.coyright{
+ text-align: center;
+ margin-top: 20px;
 }
